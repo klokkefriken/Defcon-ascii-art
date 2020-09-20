@@ -1,11 +1,11 @@
-FUN! WITH BASH!
-
-
-
-      ____                                   
-    ,'   Y`.                                 
+    ,'   Y`.                                
    /        \                                
    \ ()  () /       IS DEFCON SOME SORT OF   
     `. /\ ,'        CONFERENCE FOR RAPPERS?
 8====| "" |====8                             
-     `LLLU'                                  
+     `LLLU'    
+
+
+
+
+
