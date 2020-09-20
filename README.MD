@@ -1,11 +1,4 @@
-    ,'   Y`.                                
-   /        \                                
-   \ ()  () /       IS DEFCON SOME SORT OF   
-    `. /\ ,'        CONFERENCE FOR RAPPERS?
-8====| "" |====8                             
-     `LLLU'    
-
-
+FUN! WITH BBASH!
 
 
 

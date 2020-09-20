@@ -6,7 +6,7 @@
 
 
 def printMsg():
-    str = """                                          
+    str = """                                         
     ,'   Y`.                                
    /        \                                
    \ ()  () /       IS DEFCON SOME SORT OF   
